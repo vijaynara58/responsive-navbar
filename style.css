@@ -45,7 +45,9 @@ nav .logo {
  font-weight: 600;
  letter-spacing: -1px;
 }
-
+nav .logo:hover {
+  background: #1e232b;
+}
 nav form {
  display: flex;
  height: 40px;
